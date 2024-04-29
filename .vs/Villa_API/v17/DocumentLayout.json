@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\villa_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|solutionrelative:villa_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\dtos\\numbervilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\dtos\\numbervilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\villa_api\\helpers\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|solutionrelative:villa_api\\helpers\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\villa_api\\controllers\\numerovillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|solutionrelative:villa_api\\controllers\\numerovillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\dtos\\numbervillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\dtos\\numbervillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\dtos\\numbervillaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\dtos\\numbervillaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\dtos\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\dtos\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\villa_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|solutionrelative:villa_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\repository\\numbervillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\repository\\numbervillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\repository\\villarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\repository\\villarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\models\\numbervilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\models\\numbervilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\repository\\inumbervilarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\repository\\inumbervilarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\repository\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\repository\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\dtos\\villaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\dtos\\villaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\dtos\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\dtos\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\villa_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|solutionrelative:villa_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\villa_api\\villa_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}|Villa_API\\Villa_API.csproj|solutionrelative:villa_api\\villa_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\migrations\\20240429072614_agregarnumerovilla2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240429072614_agregarnumerovilla2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\migrations\\20240429071715_agregarnumerovilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240429071715_agregarnumerovilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\migrations\\20240429031848_tableseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240429031848_tableseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|c:\\users\\agustin\\desktop\\pruebapractica\\villa_api\\data\\migrations\\20240429030502_adddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB736AD-D383-474D-9706-2F72C053C4A2}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240429030502_adddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumeroVillaController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Controllers\\NumeroVillaController.cs",
+              "RelativeDocumentMoniker": "Villa_API\\Controllers\\NumeroVillaController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Controllers\\NumeroVillaController.cs",
+              "RelativeToolTip": "Villa_API\\Controllers\\NumeroVillaController.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAQwMYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:27:26.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberVillaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\NumberVillaDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\NumberVillaDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\NumberVillaDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\NumberVillaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:02:39.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240429072614_Agregarnumerovilla2.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Migrations\\20240429072614_Agregarnumerovilla2.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240429072614_Agregarnumerovilla2.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Migrations\\20240429072614_Agregarnumerovilla2.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240429072614_Agregarnumerovilla2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:26:14.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumberVillaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\NumberVillaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\NumberVillaRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\NumberVillaRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\NumberVillaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:23:59.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VillaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\VillaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\VillaRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\VillaRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\VillaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:48:05.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NumberVilla.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Models\\NumberVilla.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\NumberVilla.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Models\\NumberVilla.cs",
+              "RelativeToolTip": "Data\\Models\\NumberVilla.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:58:04.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Helpers\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Villa_API\\Helpers\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Helpers\\MappingConfig.cs",
+              "RelativeToolTip": "Villa_API\\Helpers\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:00:10.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Villa_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\appsettings.json",
+              "RelativeToolTip": "Villa_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T03:07:23.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberVillaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\NumberVillaCreateDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\NumberVillaCreateDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\NumberVillaCreateDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\NumberVillaCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:10:12.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VillaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\VillaCreateDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\VillaCreateDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\VillaCreateDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\VillaCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:36:41.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Program.cs",
+              "RelativeDocumentMoniker": "Villa_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Program.cs",
+              "RelativeToolTip": "Villa_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T02:59:49.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumberVillaUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\NumberVillaUpdateDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\NumberVillaUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\NumberVillaUpdateDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\NumberVillaUpdateDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:08:36.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:08:17.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INumberVilaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\INumberVilaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\INumberVilaRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\INumberVilaRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\INumberVilaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:21:36.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240429071715_Agregarnumerovilla.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Migrations\\20240429071715_Agregarnumerovilla.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240429071715_Agregarnumerovilla.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Migrations\\20240429071715_Agregarnumerovilla.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240429071715_Agregarnumerovilla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:17:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "Data\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:36:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVillaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\IVillaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\IVillaRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\IVillaRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\IVillaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:44:51.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:33:19.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VillaUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\VillaUpdateDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\VillaUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\VillaUpdateDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\VillaUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:37:16.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VillaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\VillaDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\VillaDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Dtos\\VillaDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\VillaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:39:19.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "Villa_API\\Controllers\\VillaController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "Villa_API\\Controllers\\VillaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:20:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Models\\Villa.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Villa.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Models\\Villa.cs",
+              "RelativeToolTip": "Data\\Models\\Villa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:01:11.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Models\\APIResponse.cs",
+              "RelativeToolTip": "Data\\Models\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:09:06.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T05:54:04.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240429031848_tableseed.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Migrations\\20240429031848_tableseed.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240429031848_tableseed.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Migrations\\20240429031848_tableseed.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240429031848_tableseed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:18:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240429030502_addDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Migrations\\20240429030502_addDatabase.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240429030502_addDatabase.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Data\\Migrations\\20240429030502_addDatabase.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240429030502_addDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:05:02.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Villa_API.csproj",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Villa_API.csproj",
+              "RelativeDocumentMoniker": "Villa_API\\Villa_API.csproj",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\pruebapractica\\Villa_API\\Villa_API\\Villa_API.csproj",
+              "RelativeToolTip": "Villa_API\\Villa_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T03:00:23.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Villa_API", "Villa_API\Villa_API.csproj", "{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{3CB736AD-D383-474D-9706-2F72C053C4A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D577A80-F0C8-4C39-B7BA-9DC9C4EA69B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB736AD-D383-474D-9706-2F72C053C4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB736AD-D383-474D-9706-2F72C053C4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB736AD-D383-474D-9706-2F72C053C4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB736AD-D383-474D-9706-2F72C053C4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C53E231-0D84-48BB-AF91-AF75502336A2}
+	EndGlobalSection
+EndGlobal
